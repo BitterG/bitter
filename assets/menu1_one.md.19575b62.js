@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as n}from"./app.aed7d209.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"menu1/one.md"}'),o={name:"menu1/one.md"};function a(r,s,c,p,_,m){return n(),t("div")}const f=e(o,[["render",a]]);export{i as __pageData,f as default};
