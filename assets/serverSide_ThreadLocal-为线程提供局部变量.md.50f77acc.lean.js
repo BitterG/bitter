@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,e as l}from"./app.a2c63123.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"serverSide/ThreadLocal-为线程提供局部变量.md"}'),p={name:"serverSide/ThreadLocal-为线程提供局部变量.md"},o=l("",28),e=[o];function t(c,r,D,y,A,F){return n(),a("div",null,e)}const d=s(p,[["render",t]]);export{i as __pageData,d as default};
